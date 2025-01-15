@@ -178,7 +178,7 @@ This project is licensed under the MIT License.
 ---
 
 ### 📧 Contact
-- **Author:** [Your Name](https://github.com/MrHassanKhan)
+- **Author:** [Muhammad Hassan](https://github.com/MrHassanKhan)
 - **Email:** muhammadhsn09@gmail.com
 
 ---
